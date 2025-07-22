@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis **Mathis Marsault**
+# 👋 Bonjour, je suis **Mathis**
 
 ![Profile views](https://komarev.com/ghpvc/?username=MamatorHack&label=Vues%20du%20profil&color=0e75b6&style=flat)
 
@@ -12,13 +12,11 @@ Passionné par l’IA, le Web3 et l’open‑source, je conçois des solutions �
 
 ---
 
-## 📚 Projets phares
+## 📚 Projets
 - **spam‑detector** – Modèle Python pour classer les messages en spam ou non‑spam.  
   https://github.com/MamatorHack/spam-detector  
 - **ai-history-chronicle-GPT** – Chronologie interactive retraçant l’histoire de l’IA (HTML/CSS/JS).  
   https://github.com/MamatorHack/ai-history-chronicle-GPT  
-- **animals** – Petit jeu JavaScript pour illustrer les bases de la programmation orientée objet.  
-  https://github.com/MamatorHack/animals  
 
 ---
 
