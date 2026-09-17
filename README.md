@@ -6,7 +6,7 @@
 
 **Computer Vision · Deep Learning · NLP · Multi-Agent Systems · AI Automation**
 
-I build AI systems that go beyond notebooks — from model experimentation and benchmarking to complete, reproducible prototypes.
+I build AI systems that go beyond notebooks - from model experimentation and benchmarking to complete, reproducible prototypes.
 
 ![Profile views](https://komarev.com/ghpvc/?username=MamatorHack\&label=Profile%20views\&color=0e75b6\&style=flat)
 
@@ -120,11 +120,17 @@ https://github.com/MamatorHack/MamatorHack.github.io
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MamatorHack&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamatorHack&layout=compact&hide_title=true&hide_border=true&theme=transparent" />
+
+<img src="https://img.shields.io/github/followers/MamatorHack?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/MamatorHack?style=for-the-badge&logo=github&label=Stars" />
+
+</p>
+
+<p align="center">
+AI Engineering • Computer Vision • NLP • Multi-Agent Systems • Deep Learning
 </p>
 
 ---
